@@ -71,7 +71,7 @@ const backElement = document.querySelector('.back.header');
 
 
 //animating header
-let animate = "Sudip";
+let animate = "Sudip Khadka";
 let animate2 = "The Web Developer";
 let currentText = animate;
 const arr = animate.split("");
